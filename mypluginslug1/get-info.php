@@ -17,13 +17,13 @@ function pa( $data ) {
 class Config {
 
     // repository server domain
-    const DOMAIN = 'https://www.example.com';
+    const DOMAIN = 'https://github.com/paniko/my-wp-repo.git';
     // plugin tested up to version
     const TESTED = '5.7.2';
     // required wordpress version
     const REQUIRES = '5.7';
     // repository server folder
-    const DIR = 'repositoryfolder';
+    const DIR = 'mypluginslug1';
     // array of repo server plugin slugs
     const PLUGINS = ['mypluginslug1', 'mypluginslug2'];
 
