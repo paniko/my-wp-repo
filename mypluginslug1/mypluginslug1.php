@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Myplugin One
  * Description: Demonstration plugin.
- * Version: 1.0
+ * Version: 1.1
  * Author: Nicolò Palmigiano
  * Author URI: https://www.immedia.net
  * Plugin URI: https://www.immedia.net
